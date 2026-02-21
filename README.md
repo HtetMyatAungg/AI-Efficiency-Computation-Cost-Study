@@ -11,4 +11,7 @@ Tools: VS Code, Git/GitHub Results
 Win-Rate Optimization: Demonstrated that subset reasoning provides the necessary edge to clear boards where local information is insufficient.
 Performance Scaling: Identified the "tipping point" where increased density makes purely deterministic logic non-viable.
 # About the Author
-Htet Myat Aung BSc Computer Science (Artificial Intelligence) student at Royal Holloway, University of London.+1First Class Academic Average MENSA Member Specializing in Algorithmic Research and Logic-based AI
+Htet Myat Aung BSc Computer Science (Artificial Intelligence) student at Royal Holloway, University of London.
+First Class Academic Average 
+MENSA Member 
+Specializing in Algorithmic Research and Logic-based AI
